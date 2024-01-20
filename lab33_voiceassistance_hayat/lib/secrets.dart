@@ -1,1 +1,1 @@
-const openAIAPIKey = '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';
+const openAIAPIKey = 'you should put here your api from the web site openIA  ';
